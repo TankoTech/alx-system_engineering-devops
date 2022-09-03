@@ -1,1 +1,1 @@
-long listing hidden files
+display current dir user and hidden files

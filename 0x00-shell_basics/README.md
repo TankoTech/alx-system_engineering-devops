@@ -1,1 +1,1 @@
-cd to home
+long listing

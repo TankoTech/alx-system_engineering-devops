@@ -1,1 +1,1 @@
-display current dir user and hidden files
+script that create dir

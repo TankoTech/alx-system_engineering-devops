@@ -1,1 +1,1 @@
-display the content list of your current dir
+cd to home

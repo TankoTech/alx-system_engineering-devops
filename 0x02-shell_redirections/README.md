@@ -1,1 +1,1 @@
-task zero shell io redirection
+a script that display confused smilley

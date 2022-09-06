@@ -1,1 +1,1 @@
-a script that display confused smilley
+displaying the content of the file
